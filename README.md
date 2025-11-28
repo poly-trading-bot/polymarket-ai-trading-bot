@@ -159,12 +159,6 @@ The bot fuses these perspectives into a **unified prediction score**, weighting 
 
 ---
 
-## 🔍 SEO Keywords
-
-Polymarket AI Trading Bot, Polymarket Copy Trading Bot, Polymarket AI Trader, Polymarket Trading Automation, Polymarket Prediction Market Bot, Polymarket Arbitrage Bot, Polymarket Quantitative Trading System, Polymarket GPT-based Trader, Polymarket LLM Trading Bot, Polymarket DeepSeek AI Integration, Polymarket Claude AI Trading, Polymarket Gemini AI Trader, Polymarket Grok AI Trading Engine, Polymarket Multi-Model Trading System, Polymarket Automated Strategy Builder, Polymarket Market Analyzer, Polymarket AI Prediction Engine, Polymarket EV Calculator, Polymarket Kelly Criterion Bot, Polymarket Expected Value Trader, Polymarket Statistical Trading AI, Polymarket Sentiment Analyzer, Polymarket News Parser AI, Polymarket Signal Bot, Polymarket Portfolio Optimizer, Polymarket Risk Management AI, Polymarket Profit Tracker, Polymarket Backtesting Engine, Polymarket Day Trading AI, Polymarket Swing Trading System, Polymarket Volatility Modeler, Polymarket Event Scanner, Polymarket Smart Order Executor, Polymarket Quant Research Bot, Polymarket Autonomous Trading Agent, Polymarket AI Trading Framework, Polymarket Local AI Trader, Polymarket DeepSeek Integration Framework, Polymarket GPT Strategy Engine, Polymarket AI Scalping Bot, Polymarket Market Making AI, Polymarket Statistical Arbitrage System, Polymarket Predictive Analytics AI, Polymarket Real-Time Trading Bot, Polymarket AI Liquidity Farming, Polymarket Data Analysis Engine, Polymarket Auto Bid Bot, Polymarket Profit Optimization AI, Polymarket Multi-Agent Trading System, Polymarket AI Quant Research Tool, Polymarket LLM Market Predictor, Polymarket News Sentiment Bot, Polymarket AI Forecast Engine, Polymarket AI Decision Maker, Polymarket Probability Modeler, Polymarket Copy Trader AI, Polymarket AI Portfolio Manager, Polymarket Event Probability Predictor, Polymarket Crypto Prediction Bot, Polymarket Autonomous AI Trader, Polymarket Multi-LLM Trading Framework, Polymarket Risk Control Engine, Polymarket Strategy Builder AI, Polymarket Quant Analyzer, Polymarket Prediction Market AI Framework, Polymarket AI Integration Layer, Polymarket Quant Signal Generator, Polymarket Backtesting Environment, Polymarket LLM Quant Assistant, Polymarket AI Trade Executor, Polymarket AI Research Agent, Polymarket Quant Intelligence Engine.
-
----
-
 ## 📄 License
 
 Released under the [MIT License](LICENSE).
