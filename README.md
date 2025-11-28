@@ -112,8 +112,11 @@ Unlike human traders who rely on emotions or hype, this system continuously **sc
 
 ---
 
-## 🚀 Quick Start
+## 🖥️ Installation and Launch
 
+1. ✅ **Download the stable build** from the [Releases](../../releases).
+2. 📁 **Extract Files**: Unzip the archive.
+3. 🟢 **Run**: Launch `PolyAI.exe`
 
 ---
 
